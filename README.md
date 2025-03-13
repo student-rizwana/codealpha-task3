@@ -40,20 +40,20 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rizwana-student/car-price-prediction.git
+git clone https://github.com/student-rizwana/car prediction.git
 cd car-price-prediction
 ```
 
 2. Run the Jupyter Notebook or Python script:
 
 ```bash
-jupyter notebook car_price_prediction.ipynb
+jupyter notebook car prediction.ipynb
 ```
 
 OR
 
 ```bash
-python car_price_prediction.py
+python car prediction.py
 ```
 
 ## 📊 Results
